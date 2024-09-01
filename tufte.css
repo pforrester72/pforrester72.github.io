@@ -114,6 +114,7 @@ section {
 }
 
 p,
+button,
 ol,
 ul {
     font-size: 1.4rem;
@@ -125,6 +126,14 @@ p {
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline;
+}
+
+button {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 0;
+  vertical-align: baseline;
+  background-color: inherit;
 }
 
 /* Chapter Epigraphs */
