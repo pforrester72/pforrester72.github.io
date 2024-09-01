@@ -127,7 +127,7 @@ p {
     vertical-align: baseline;
 }
 
-.reset-button {
+button {
   background-color: transparent;
   border-width: 0;
   font-family: inherit;
